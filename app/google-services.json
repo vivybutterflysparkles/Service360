@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354365383620",
+    "project_id": "service360-d6320",
+    "storage_bucket": "service360-d6320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354365383620:android:4ba14e5d06a363769f7a91",
+        "android_client_info": {
+          "package_name": "com.example.service360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8gHiQoP6NFRzbMle90A1M1P_IuyBem0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
